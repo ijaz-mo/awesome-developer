@@ -29,6 +29,4 @@ Welcome to the Awesome Developer repository! This is a curated list of resources
    - Azure
    - Google Cloud Platform
 
-## Contribution
 
-Feel free to contribute by adding more resources or improving the existing ones.
