@@ -5,7 +5,7 @@ Welcome to the Awesome Developer repository! This is a curated list of resources
 ## Resources
 
 
-Programming Languages
+- *Programming Languages*
 
 [Python](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
@@ -13,7 +13,7 @@ Programming Languages
 
 [Go](https://www.youtube.com/watch?v=yyUHQIec83I)
 
-Web Development
+- *Web Development*
 
 [HTML & CSS](https://www.youtube.com/watch?v=UB1O30fR-EE)
 
@@ -21,7 +21,7 @@ Web Development
 
 [Node.js](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 
-Data Science
+- *Data Science*
 
 [Pandas](https://www.youtube.com/watch?v=vmEHCJofslg)
 
@@ -29,15 +29,15 @@ Data Science
 
 [Scikit-learn](https://www.youtube.com/watch?v=pqNCD_5r0IU)
 
-DevOps
+- *DevOps*
 
 [Docker](https://www.youtube.com/watch?v=3c-iBn73dDE)
 
 [Kubernetes](https://www.youtube.com/watch?v=X48VuDVv0do)
 
-[CI/CD](CI/CD Pipeline with Jenkins)
+[CI/CD](https://www.youtube.com/watch?v=scEDHsr3APg)
 
-Cloud Computing
+- *Cloud Computing*
 
 [AWS](https://www.youtube.com/watch?v=Ia-UEYYR44s)
 
